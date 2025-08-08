@@ -1,3 +1,3 @@
-# proyecto_s7
-## Prueba_nuevo_texto
-Código para nuestro sprint
+# Titulo de mi proyecto
+Mi proyecto sprint 7 de aplicación dentro de Tripleten
+
